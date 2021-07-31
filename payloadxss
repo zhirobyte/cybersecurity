@@ -5,3 +5,6 @@
 https://dropy.importir.com/api/payment/midtrans/notification?order_id=BP56944-20210727023124&status_code=201&transaction_status=pending
 
 https://m.dana.id/d/ipg/register/passcode?phoneNumber=87733152746
+
+https://m.dana.id/wallet/api/alipayplus.mobilewallet.pocket.numUpdated.json
+/v3/getdata/balance/TOKOPEDIAWALLET HTTP/2
