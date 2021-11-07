@@ -1,0 +1,2 @@
+tamper sql map --------------
+--tamper=between --method options --invalid-string --invalid-bignum --no-cast
